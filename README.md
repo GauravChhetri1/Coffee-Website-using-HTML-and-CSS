@@ -4,7 +4,7 @@ This is a simple coffee website project created using basic web technologies.
 The project focuses on a clean design, smooth layout, and user-friendly interface.
 
 ## Live Preview 🌐
-👉 https://your-username.github.io/your-repo-name/
+👉 [https://your-username.github.io/your-repo-name/](https://gauravchhetri1.github.io/Coffee-Website-using-HTML-and-CSS/)
 
 ## Features
 - Responsive design  
